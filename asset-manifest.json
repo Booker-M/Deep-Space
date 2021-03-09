@@ -1,0 +1,31 @@
+{
+  "files": {
+    "main.css": "/Deep-Space/static/css/main.6a0f14a9.chunk.css",
+    "main.js": "/Deep-Space/static/js/main.8d951887.chunk.js",
+    "main.js.map": "/Deep-Space/static/js/main.8d951887.chunk.js.map",
+    "runtime-main.js": "/Deep-Space/static/js/runtime-main.8e17be49.js",
+    "runtime-main.js.map": "/Deep-Space/static/js/runtime-main.8e17be49.js.map",
+    "static/js/2.dbeea8a0.chunk.js": "/Deep-Space/static/js/2.dbeea8a0.chunk.js",
+    "static/js/2.dbeea8a0.chunk.js.map": "/Deep-Space/static/js/2.dbeea8a0.chunk.js.map",
+    "static/js/3.3d657de8.chunk.js": "/Deep-Space/static/js/3.3d657de8.chunk.js",
+    "static/js/3.3d657de8.chunk.js.map": "/Deep-Space/static/js/3.3d657de8.chunk.js.map",
+    "index.html": "/Deep-Space/index.html",
+    "static/css/main.6a0f14a9.chunk.css.map": "/Deep-Space/static/css/main.6a0f14a9.chunk.css.map",
+    "static/js/2.dbeea8a0.chunk.js.LICENSE.txt": "/Deep-Space/static/js/2.dbeea8a0.chunk.js.LICENSE.txt",
+    "static/media/2_no_clouds_4k.825a0ecf.jpg": "/Deep-Space/static/media/2_no_clouds_4k.825a0ecf.jpg",
+    "static/media/crystal.50c70b94.jpg": "/Deep-Space/static/media/crystal.50c70b94.jpg",
+    "static/media/enemyTexture.5837a82b.jpg": "/Deep-Space/static/media/enemyTexture.5837a82b.jpg",
+    "static/media/fair_clouds_4k.67a542cb.png": "/Deep-Space/static/media/fair_clouds_4k.67a542cb.png",
+    "static/media/krakenEye.bc1d18a8.jpg": "/Deep-Space/static/media/krakenEye.bc1d18a8.jpg",
+    "static/media/moon_color.758452fb.png": "/Deep-Space/static/media/moon_color.758452fb.png",
+    "static/media/shipBubble.d04a31b6.jpg": "/Deep-Space/static/media/shipBubble.d04a31b6.jpg",
+    "static/media/spaceshiptexture.b95e56e8.jpg": "/Deep-Space/static/media/spaceshiptexture.b95e56e8.jpg",
+    "static/media/water_4k.f67af4c5.png": "/Deep-Space/static/media/water_4k.f67af4c5.png"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.8e17be49.js",
+    "static/js/2.dbeea8a0.chunk.js",
+    "static/css/main.6a0f14a9.chunk.css",
+    "static/js/main.8d951887.chunk.js"
+  ]
+}
